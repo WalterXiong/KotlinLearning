@@ -1,0 +1,9 @@
+/.idea/*
+
+/BasicGrammar.iml
+/BasicGrammar/build/*
+/BasicGrammar/.gradle/*
+
+/StandardFunctionAndStaticMethod.iml
+/StandardFunctionAndStaticMethod/build/*
+/StandardFunctionAndStaticMethod/.gradle/*
