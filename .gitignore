@@ -1,9 +1,9 @@
 /.idea/*
 
 /BasicGrammar.iml
-/BasicGrammar/build/*
-/BasicGrammar/.gradle/*
-/BasicGrammar/src/test/
+/BasicGrammar/build
+/BasicGrammar/.gradle
+/BasicGrammar/src/test
 
 /StandardFunctionAndStaticMethod.iml
 /StandardFunctionAndStaticMethod/build/*
@@ -11,6 +11,11 @@
 /StandardFunctionAndStaticMethod/src/test/
 
 /LateinitAndSealed.iml
-/LateinitAndSealed/build/*
-/LateinitAndSealed/.gradle/*
-/LateinitAndSealed/src/test/
+/LateinitAndSealed/build
+/LateinitAndSealed/.gradle
+/LateinitAndSealed/src/test
+
+/ExtendedFunctionandOperatorOverloading.iml
+/ExtendedFunctionandOperatorOverloading/build/*
+/ExtendedFunctionandOperatorOverloading/.gradle/*
+/ExtendedFunctionandOperatorOverloading/src/test/*
