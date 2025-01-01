@@ -19,3 +19,13 @@
 /ExtendedFunctionandOperatorOverloading/build/*
 /ExtendedFunctionandOperatorOverloading/.gradle/*
 /ExtendedFunctionandOperatorOverloading/src/test/*
+
+/HigherOrderFunction.iml
+/HigherOrderFunction/build
+/HigherOrderFunction/.gradle
+/HigherOrderFunction/src/test
+
+/GenericsAndDelegates.iml
+/GenericsAndDelegates/build
+/GenericsAndDelegates/.gradle
+/GenericsAndDelegates/src/test
