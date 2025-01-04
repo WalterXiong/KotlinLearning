@@ -47,7 +47,7 @@ fun main() {
      * apply 函数
      *
      */
-    val applyResult = StringBuilder().run {
+    val applyResult = StringBuilder().apply {
 
         append("Start eating fruits.\n")
 
