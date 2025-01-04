@@ -29,3 +29,8 @@
 /GenericsAndDelegates/build
 /GenericsAndDelegates/.gradle
 /GenericsAndDelegates/src/test
+
+/InfixFunction.iml
+/InfixFunction/build
+/InfixFunction/.gradle
+/InfixFunction/src/test
