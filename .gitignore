@@ -34,3 +34,8 @@
 /InfixFunction/build
 /InfixFunction/.gradle
 /InfixFunction/src/test
+
+/GenericsAdvancedFeature.iml
+/GenericsAdvancedFeature/build
+/GenericsAdvancedFeature/.gradle
+/GenericsAdvancedFeature/src/test
