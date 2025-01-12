@@ -39,3 +39,8 @@
 /GenericsAdvancedFeature/build
 /GenericsAdvancedFeature/.gradle
 /GenericsAdvancedFeature/src/test
+
+/Coroutine.iml
+/Coroutine/build
+/Coroutine/.gradle
+/Coroutine/src/test
