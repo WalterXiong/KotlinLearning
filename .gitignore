@@ -49,3 +49,8 @@
 /UtilFuntion/build
 /UtilFuntion/.gradle
 /UtilFuntion/src/test
+
+/DSL.iml
+/DSL/build
+/DSL/.gradle
+/DSL/src/test
